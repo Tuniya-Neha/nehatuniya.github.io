@@ -1,12 +1,12 @@
-# Research Project
-## Summer intern at start-up organistion
+## Research Project
+### Summer intern at start-up organistion
 I was a summer intern at the start-up organistion MmM under Mahesh Parihar, founder of MmM Ltd and Project Manager of SEIL lab at IIT Bombay. 
 I could develop a Machine learning model for Heart attack prediction. Further, I could learn python and its Machine Learning libraries in an elaborated way.
 #### Development of model
-* The model was implemented combination of supervised learning and unsupervised learning algorithm which consisted of Fuzzy Clustering algorithm followed by Support Vector Machine.
+* The model implemented was a combination of supervised learning and unsupervised learning algorithm which consisted of Fuzzy Clustering algorithm followed by Support Vector Machine.
 * The model is implemented on Cleveland dataset from UCI Machine learning repository.
 * Preprocessing of data, Exploratory data analysis, and different testing and validation methods was performed to increase the accuracy the model.
-* Anomaly detection could also be implemented on the dataset.
+* Anomaly detection is also be implemented on the dataset.
 
 ## Academic Projects
 * Pedestrian Detection and Direction Prediction using Video Processing
