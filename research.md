@@ -20,6 +20,6 @@ I could develop a Machine learning model for Heart attack prediction. Further, I
 * Maze turtle implementation
   * Implementing a maze problem for a turtle to find its way out of a user defined maze.
   * Basic back-tracking algorithm was used along with a 2-D array to make a maze.
-* Rotation of solar panels for maximum utilization of sunlight
+* Rotation of solar panels for maximum utilization of sunlight[[ppt]]() [[code]](https://github.com/Tuniya-Neha/Solar_panels)
   * Solar Panels are usually fixed at an angle and can convert sunlight into useful electrical energy only for a few hours of the day.
   * Implementing a system with a sensor, a microcontroller and an actuator, the direction of the sunlight is observed, and the solar panels are rotated accordingly for maximum utilization of available sunlight
